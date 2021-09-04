@@ -7,7 +7,7 @@
 
 
 
-[![](https://img.shields.io/linkedin/follow/EmircanAksu?style=social)](https://www.linkedin.com/in/EmircanAksu)
+
 
 [![](https://img.shields.io/github/followers/emircanaksu?style=social)](https://www.github.com/EmircanAksu)
 <!--
