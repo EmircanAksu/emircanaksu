@@ -10,6 +10,13 @@
 
 
 [![](https://img.shields.io/github/followers/emircanaksu?style=social)](https://www.github.com/EmircanAksu)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/EmircanAksu/)
+
+[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mertcobanov)
+
+[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mertcobanov)
+
+[![Mail Badge](https://img.shields.io/badge/mertcobanov@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mertcobanov@gmail.com)](mailto:mertcobanov@gmail.com)
 <!--
 **EmircanAksu/emircanaksu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
