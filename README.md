@@ -16,7 +16,7 @@
 
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mertcobanov)
 
-[![Mail Badge](https://img.shields.io/badge/mertcobanov@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mertcobanov@gmail.com)](mailto:mertcobanov@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/emircanaksu43@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:emircanaksu43@gmail.com)](mailto:emircanaksu43@gmail.com)
 <!--
 **EmircanAksu/emircanaksu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
