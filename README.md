@@ -1,5 +1,15 @@
 ### Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emircanaksu&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
+[![](https://img.shields.io/linkedin/follow/EmircanAksu?style=social)](https://www.linkedin.com/in/EmircanAksu)
+
+[![](https://img.shields.io/github/followers/emircanaksu?style=social)](https://www.github.com/EmircanAksu)
 <!--
 **EmircanAksu/emircanaksu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
