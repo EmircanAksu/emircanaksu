@@ -17,7 +17,8 @@
 
 
 ### Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emircanaksu&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=emircanaksu&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="emircanaksu" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emircanaksu&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=emircanaksu&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="emircanaksu" />
 
 
 
